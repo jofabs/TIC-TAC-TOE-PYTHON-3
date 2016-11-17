@@ -1,5 +1,4 @@
-#This project was completed by Joseph A Fabiyi, Student ID:6642705
-
+#This project was completed by Joseph A Fabiyi
 # Address for my Blog https://aprogrammersdiary.wordpress.com/
 # click the menu of the Blog home page to access blog pages and posts.
 # About me page is just a short summary about myself.
